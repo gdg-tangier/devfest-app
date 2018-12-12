@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2019389346, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: Icons
+  m_EditorClassIdentifier: 
+  hashCode: 83117176
+  material: {fileID: 21772839566952286}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 190
+    y: 443
+    width: 40
+    height: 40
+    xOffset: 7
+    yOffset: 28
+    xAdvance: 70
+    scale: 1.5
+    name: Icons_2
+    hashCode: 320288821
+    unicode: 0
+    pivot: {x: -20, y: 20}
+    sprite: {fileID: 21300004, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 1
+    x: 443
+    y: 441
+    width: 28
+    height: 44
+    xOffset: 14.9
+    yOffset: 35
+    xAdvance: 75
+    scale: 1.5
+    name: Icons_5
+    hashCode: 320288818
+    unicode: 0
+    pivot: {x: -14, y: 22}
+    sprite: {fileID: 21300010, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 2
+    x: 26
+    y: 439
+    width: 40
+    height: 36
+    xOffset: 7
+    yOffset: 28
+    xAdvance: 65
+    scale: 1.5
+    name: Icons_0
+    hashCode: 320288823
+    unicode: 0
+    pivot: {x: -20, y: 18}
+    sprite: {fileID: 21300000, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 3
+    x: 106
+    y: 437
+    width: 40
+    height: 40
+    xOffset: 7
+    yOffset: 28
+    xAdvance: 70
+    scale: 1.5
+    name: Icons_1
+    hashCode: 320288822
+    unicode: 0
+    pivot: {x: -20, y: 20}
+    sprite: {fileID: 21300002, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 4
+    x: 273
+    y: 437
+    width: 32
+    height: 42
+    xOffset: 15
+    yOffset: 35
+    xAdvance: 74
+    scale: 1.5
+    name: Icons_3
+    hashCode: 320288820
+    unicode: 0
+    pivot: {x: -16, y: 21}
+    sprite: {fileID: 21300006, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 5
+    x: 346
+    y: 431
+    width: 32
+    height: 42
+    xOffset: 15
+    yOffset: 35
+    xAdvance: 74
+    scale: 1.5
+    name: Icons_4
+    hashCode: 320288819
+    unicode: 0
+    pivot: {x: -16, y: 21}
+    sprite: {fileID: 21300008, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 6
+    x: 28
+    y: 355
+    width: 36
+    height: 40
+    xOffset: 14
+    yOffset: 35
+    xAdvance: 74
+    scale: 1.5
+    name: Icons_6
+    hashCode: 320288817
+    unicode: 0
+    pivot: {x: -18, y: 20}
+    sprite: {fileID: 21300012, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  - id: 7
+    x: 104
+    y: 355
+    width: 41
+    height: 41
+    xOffset: 14
+    yOffset: 28
+    xAdvance: 74
+    scale: 1.5
+    name: Icons_7
+    hashCode: 320288816
+    unicode: 0
+    pivot: {x: -20.5, y: 20.5}
+    sprite: {fileID: 21300014, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+  fallbackSpriteAssets:
+  - {fileID: 0}
+--- !u!21 &21772839566952286
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: 3a1c68c8292caf046bd21158886c5e40, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: bb92ec7bcb78b4e0ebd2aab951520c4e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
