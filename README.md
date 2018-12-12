@@ -1,1 +1,18 @@
 # DevFest AR App
+
+This app allows you to see an introduction video about some of Google products by moving phone camera towards this [image](/Assets/StreamingAssets/GDG_DevFest_Tangier_2018.jpg).
+
+- [Unity Editor](#unity)
+- [Compile and Run EasyAR Unity](#easyar)
+
+## Unity Editor
+
+In this project we used Unity Editor to make itr easier to play with 2D and 3D components. Download the Editor at [unity3d.com](https://unity3d.com/unity).
+
+The Unity User Manual helps you learn how to use the Unity Editor and its associated services. You can read it from start to finish, or use it as a reference.
+
+If it’s your first time using Unity, take a look at the introductory documentation on [Working with Unity](https://docs.unity3d.com/Manual/UnityOverview.html), and see the [Unity Tutorials](https://unity3d.com/learn/tutorials).
+
+## Compile and Run EasyAR Unity
+
+This [article](http://bit.ly/2BcuJTi) will show you how to open the project and add the key and deploy for the traget platform (Android/iOS).
